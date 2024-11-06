@@ -121,6 +121,7 @@ posthog==3.6.6
 prompt_toolkit==3.0.48
 protobuf==4.25.5
 psutil==6.0.0
+psycopg2
 ptyprocess==0.7.0
 pure_eval==0.2.3
 pyarrow==17.0.0
